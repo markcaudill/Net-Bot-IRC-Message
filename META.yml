@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-Bot-IRC-Message
-version:            1.0.0
+version:            1.0.1
 abstract:           An IRC protocol message class.
 author:
     - Mark Caudill <mcaudill@cpan.org>
