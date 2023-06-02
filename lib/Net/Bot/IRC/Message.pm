@@ -12,7 +12,7 @@ Net::Bot::IRC::Message - An IRC protocol message class.
 
 =head1 VERSION
 
-Version 0.01
+Version 1.0.0
 
 =cut
 
